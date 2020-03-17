@@ -1,0 +1,5 @@
+C:\Users\KY185041\source\repos\LibraryServices\LibrarayServices.Data\bin\Debug\LibrarayServices.Data.dll
+C:\Users\KY185041\source\repos\LibraryServices\LibrarayServices.Data\bin\Debug\LibrarayServices.Data.pdb
+C:\Users\KY185041\source\repos\LibraryServices\LibrarayServices.Data\obj\Debug\LibrarayServices.Data.csproj.CoreCompileInputs.cache
+C:\Users\KY185041\source\repos\LibraryServices\LibrarayServices.Data\obj\Debug\LibrarayServices.Data.dll
+C:\Users\KY185041\source\repos\LibraryServices\LibrarayServices.Data\obj\Debug\LibrarayServices.Data.pdb
